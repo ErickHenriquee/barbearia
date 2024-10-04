@@ -56,7 +56,7 @@ header {
 }
 
 header > p {
-    font-family: var(--fonte-padrão);
+    font-family: var(--font-destaque);
     font-size: 1.2em;
     font-weight: normal;
     color: var(--cor5);
@@ -102,7 +102,7 @@ section p {
 }
 
 section p {
-    font-family: var(--fonte-padrão);
+    font-family: var(--font-destaque);
     font-weight: normal;
     font-size: 1.2em;
     color: var(--cor5);
@@ -171,6 +171,7 @@ footer{
     text-align: center;
     font-size: 0.9em;
     padding: 5px;
+    margin: 5px;
     border-radius: 5px;
 }
 
